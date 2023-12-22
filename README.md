@@ -9,7 +9,8 @@ Mask R-CNN works by first using a convolutional neural network (CNN) to extract 
 
 ![2884d889-f0b0-44e5-83cf-22ec8797f59a](https://github.com/swethasubu93/Object-Detection-MaskRCNN/assets/109064336/d351af3f-c548-4d3b-a619-6be61970b8d7)
 
-### Model Inference
+### Model Inference 
+[Jupyter Notebook](https://github.com/swethasubu93/Object-Detection-MaskRCNN/blob/main/swetha_hw4_method1_MaskRCNN_RetinaNet.ipynb)
 The MaskRCNN model was used to predict the objects on a street. For comparison, Faster RCNN and RetinaNet152 models were also used for inference. 
 The code for both models are given, along with inference videos.
 The inference by Mask RCNN was found to be the best followed by FasterRCNN. The inference by RetinaNet was not as precise.
